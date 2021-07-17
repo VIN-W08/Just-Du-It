@@ -1,3 +1,29 @@
+# Just Du It Website Application
+Just Du It website application is an online shoe store website appication that allows user to view shoes information, add shoe to cart, and check out or make order of the selected shoes.
+
+## Features
+The features provided in this website application are:
+As a Guest:
+- Register
+- View shoes information
+
+As a Member:
+- Login
+- View shoes information
+- Add shoe to cart
+- Edit shoe data in cart
+- Check out or make order
+- View user's transactions
+
+As an Admin:
+- Login
+- View shoes information
+- Update shoes information
+- Add shoes to online store website
+- View all user transactions.
+
+## --------------------------------------------------------------------------------------------------------
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
